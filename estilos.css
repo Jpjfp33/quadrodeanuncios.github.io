@@ -1,5 +1,14 @@
 body {
 
 text-align: center;
+    background: linear-gradient(to right,grey, lightgrey);
+
+}
+
+.abc
+
+{
+ 
+border-color: black;
 
 }
