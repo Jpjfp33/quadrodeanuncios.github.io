@@ -1,14 +1,16 @@
 body {
 
 text-align: center;
+
     background: linear-gradient(to right,grey, lightgrey);
 
 }
 
-.abc
+.abc {
 
-{
- 
-border-color: black;
+    border: solid;
+    border-radius: 10px;
+    border-color: goldenrod;
+    border-width: 5px;
 
 }
